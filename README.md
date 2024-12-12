@@ -5,21 +5,21 @@ This is a simple static Banking Application developed using Core Java. The proje
 <b>Features</b>
 <br>
 <b>Loan Approval</b>: Allows users to take a loan by providing basic credentials like name, monthly salary, Proffession type and loan amount.
+<br>
+<b>Deposit</b>: Users can deposit money into their  individual accounts.<br>
+<b>Withdrawal</b>: Allows users to withdraw funds from their account, with balance checks.<br>
+<b>Balance Inquiry</b>: Check the current balance and Loan pending balance of an account.<br>
+<b>User Authentication</b>: Simulates a login system where users authenticate with their credentials.<br>
+Technologies Used<br>
+<b>Core Java</b>: The application is developed using core Java concepts, including classes, encapsulation, switch statements,methods and multiple classes.<br>
+<b>JDK 8 or higher</b>: The project requires Java Development Kit (JDK) version 8 or higher for compiling and running the code.<br>
+Prerequisites<br>
+Before running the application, ensure you have the following installed:<br>
 
-<b>Deposit</b>: Users can deposit money into their  individual accounts.
-<b>Withdrawal</b>: Allows users to withdraw funds from their account, with balance checks.
-<b>Balance Inquiry</b>: Check the current balance and Loan pending balance of an account.
-<b>User Authentication</b>: Simulates a login system where users authenticate with their credentials.
-Technologies Used
-<b>Core Java</b>: The application is developed using core Java concepts, including classes, encapsulation, switch statements,methods and multiple classes.
-<b>JDK 8 or higher</b>: The project requires Java Development Kit (JDK) version 8 or higher for compiling and running the code.
-Prerequisites
-Before running the application, ensure you have the following installed:
-
-<b>Java Development Kit (JDK)</b>: Version 8 or higher. You can download it from here.
-How to Run the Project
-Step 1: Clone the Repository
-Clone this repository to your local machine using the following command:
+<b>Java Development Kit (JDK)</b>: Version 8 or higher. You can download it from here.<br>
+How to Run the Project<br>
+Step 1: Clone the Repository<br>
+Clone this repository to your local machine using the following command:<br>
 
 bash
 Copy code
