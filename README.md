@@ -7,16 +7,16 @@ This is a simple static Banking Application developed using Core Java. The proje
 <b>Loan Approval</b>: Allows users to take a loan by providing basic credentials like name, monthly salary, Proffession type and loan amount.
 
 <b>Deposit</b>: Users can deposit money into their  individual accounts.
-<b>Withdrawal<b/>: Allows users to withdraw funds from their account, with balance checks.
-<b>Balance Inquiry<b/>: Check the current balance and Loan pending balance of an account.
-<b>User Authentication<b/>: Simulates a login system where users authenticate with their credentials.
+<b>Withdrawal</b>: Allows users to withdraw funds from their account, with balance checks.
+<b>Balance Inquiry</b>: Check the current balance and Loan pending balance of an account.
+<b>User Authentication</b>: Simulates a login system where users authenticate with their credentials.
 Technologies Used
-<b>Core Java<b/>: The application is developed using core Java concepts, including classes, encapsulation, switch statements,methods and multiple classes.
-JDK 8 or higher<b/>: The project requires Java Development Kit (JDK) version 8 or higher for compiling and running the code.
+<b>Core Java</b>: The application is developed using core Java concepts, including classes, encapsulation, switch statements,methods and multiple classes.
+<b>JDK 8 or higher</b>: The project requires Java Development Kit (JDK) version 8 or higher for compiling and running the code.
 Prerequisites
 Before running the application, ensure you have the following installed:
 
-Java Development Kit (JDK)<b/>: Version 8 or higher. You can download it from here.
+<b>Java Development Kit (JDK)</b>: Version 8 or higher. You can download it from here.
 How to Run the Project
 Step 1: Clone the Repository
 Clone this repository to your local machine using the following command:
@@ -39,10 +39,10 @@ Copy code
 java BankingApp
 The application will run in the terminal/command line.
 
-Project Structure<b/>
+<b>project Structure</b>
 bash
 Copy code
-/banking-application<b/>
+/banking-application
 │
 ├── BankingApp.java          # Main entry point of the application
 ├── Account.java             # Class for representing user accounts
@@ -50,7 +50,7 @@ Copy code
 ├── User_requirements        # Method for users choice like withdraw,deposit,loan and chech balance.
 ├── Date and Time            # Method for displaying present time of service
 
-Example Usage<b/>
+<b>Example Usage</b>
 Bank credentials
 it includes present four accounts and related passwords
 i.e.,   accNo : 101  & password : 1111
@@ -77,19 +77,19 @@ eligible crireria-salary should greater than 30k ,previous loan should zero and 
 example
 enter your name,salary and working profession.
 enter loan amount: 300000/-
-
-Fork the repository<b/>
+<b>how to access the repository</b>
+Fork the repository
 Create a new branch (git checkout -b feature-branch).
 Make your changes.
 Commit your changes (git commit -am 'Add new feature').
 Push to the branch (git push origin feature-branch).
 Open a pull request.
 
-Contact<b/>
+<b>Contact</b>
 If you have any questions, feel free to contact me:
 
-Email<b/>: prudhvibandipandu@gmail.com
-GitHub<b/>: PRUDHVI-14
+<b>Email</b>: prudhvibandipandu@gmail.com
+<b>GitHub</b>: PRUDHVI-14
 Feel free to modify and expand this README as needed based on the specific features and structure of your banking application.
 
 
