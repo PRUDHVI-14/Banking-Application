@@ -1,8 +1,9 @@
 # Banking-Application (core java)
 
 This is a simple Banking Application developed using Core Java. The project aims to simulate basic banking operations such as account creation, deposit, withdrawal, transfer, and balance checking. It uses object-oriented principles and is a command-line interface (CLI) application.
-
+<br>
 Features
+<br>
 Account Creation: Allows users to create a new bank account by providing basic details like name, account type, and initial deposit.
 Deposit: Users can deposit money into their accounts.
 Withdrawal: Allows users to withdraw funds from their account, with balance checks.
