@@ -21,44 +21,37 @@ How to Run the Project<br>
 Step 1: Clone the Repository<br>
 Clone this repository to your local machine using the following command:<br>
 
-bash
-Copy code
-git clone https://github.com/your-username/banking-application.git
-Step 2: Compile the Code
-Navigate to the project folder and compile the Java files:
+git clone https://github.com/your-username/banking-application.git<br>
+Step 2: Compile the Code<br>
+Navigate to the project folder and compile the Java files:<br>
 
-bash
-Copy code
-cd banking-application
+cd banking-application<br>
 javac *.java
-Step 3: Run the Application
+Step 3: Run the Application<br>
 After compiling the code, you can run the application using:
 
-bash
-Copy code
-java BankingApp
-The application will run in the terminal/command line.
+java BankingApp<br>
+The application will run in the terminal/command line.<br>
 
-<b>project Structure</b>
-bash
-Copy code
-/banking-application
+<b>project Structure</b><br>
+
+/banking-application<br>
 │
-├── BankingApp.java          # Main entry point of the application
-├── Account.java             # Class for representing user accounts
-├── Credentials              # Method for verifying user accNo and Password
-├── User_requirements        # Method for users choice like withdraw,deposit,loan and chech balance.
-├── Date and Time            # Method for displaying present time of service
+├── BankingApp.java          # Main entry point of the application<br>
+├── Account.java             # Class for representing user accounts<br>
+├── Credentials              # Method for verifying user accNo and Password<br>
+├── User_requirements        # Method for users choice like withdraw,deposit,loan and chech balance.<br>
+├── Date and Time            # Method for displaying present time of service<br>
 
-<b>Example Usage</b>
-Bank credentials
-it includes present four accounts and related passwords
-i.e.,   accNo : 101  & password : 1111
-        accNo : 102  & password : 2222
-        accNo : 103  & password : 3333
-        accNo : 104  & password : 4444
+<b>Example Usage</b><br>
+Bank credentials<br>
+it includes present four accounts and related passwords<br>
+i.e.,   accNo : 101  & password : 1111<br>
+        accNo : 102  & password : 2222<br>
+        accNo : 103  & password : 3333<br>
+        accNo : 104  & password : 4444<br>
         
-The application will prompt you to enter into your specidied account.
+The application will prompt you to enter into your specidied account.<br>
 Example:
 enter accNo and password
 it displays different options for check balance, withdraw, deposit and loan.
@@ -90,7 +83,7 @@ If you have any questions, feel free to contact me:
 
 <b>Email</b>: prudhvibandipandu@gmail.com
 <b>GitHub</b>: PRUDHVI-14
-Feel free to modify and expand this README as needed based on the specific features and structure of your banking application.
+
 
 
 
