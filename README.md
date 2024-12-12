@@ -10,6 +10,7 @@ This is a simple static Banking Application developed using Core Java. The proje
 <b>Withdrawal</b>: Allows users to withdraw funds from their account, with balance checks.<br>
 <b>Balance Inquiry</b>: Check the current balance and Loan pending balance of an account.<br>
 <b>User Authentication</b>: Simulates a login system where users authenticate with their credentials.<br>
+<br>
 Technologies Used<br>
 <b>Core Java</b>: The application is developed using core Java concepts, including classes, encapsulation, switch statements,methods and multiple classes.<br>
 <b>JDK 8 or higher</b>: The project requires Java Development Kit (JDK) version 8 or higher for compiling and running the code.<br>
@@ -28,7 +29,7 @@ Navigate to the project folder and compile the Java files:<br>
 cd banking-application<br>
 javac *.java
 Step 3: Run the Application<br>
-After compiling the code, you can run the application using:
+After compiling the code, you can run the application using:<br>
 
 java BankingApp<br>
 The application will run in the terminal/command line.<br>
@@ -53,36 +54,36 @@ i.e.,   accNo : 101  & password : 1111<br>
         
 The application will prompt you to enter into your specidied account.<br>
 Example:
-enter accNo and password
-it displays different options for check balance, withdraw, deposit and loan.
-choose the related option
-You can deposit money by entering an amount when prompted.
-Example:
-Enter deposit amount: 500
-Making a Withdrawal:
+enter accNo and password<br>
+it displays different options for check balance, withdraw, deposit and loan.<br>
+choose the related option<br>
+You can deposit money by entering an amount when prompted.<br>
+Example:<br>
+Enter deposit amount: 500<br>
+Making a Withdrawal:<br>
 
-You can withdraw funds, as long as your balance is sufficient.
-Example 
-Enter withdrawal amount: 200
-Transfer Funds:
-you can take loan,as long as you are eligible.
-eligible crireria-salary should greater than 30k ,previous loan should zero and you must and should working profession.
-example
-enter your name,salary and working profession.
-enter loan amount: 300000/-
-<b>how to access the repository</b>
-Fork the repository
-Create a new branch (git checkout -b feature-branch).
-Make your changes.
-Commit your changes (git commit -am 'Add new feature').
-Push to the branch (git push origin feature-branch).
-Open a pull request.
+You can withdraw funds, as long as your balance is sufficient.<br>
+Example <br>
+Enter withdrawal amount: 200<br>
+Transfer Funds:<br>
+you can take loan,as long as you are eligible.<br>
+eligible crireria-salary should greater than 30k ,previous loan should zero and you must and should working profession.<br>
+example<br>
+enter your name,salary and working profession.<br>
+enter loan amount: 300000/-<br>
+<b>how to access the repository</b><br>
+Fork the repository<br>
+Create a new branch (git checkout -b feature-branch).<br>
+Make your changes.<br>
+Commit your changes (git commit -am 'Add new feature').<br>
+Push to the branch (git push origin feature-branch).<br>
+Open a pull request.<br>
 
-<b>Contact</b>
-If you have any questions, feel free to contact me:
+<b>Contact</b><br>
+If you have any questions, feel free to contact me:<br>
 
-<b>Email</b>: prudhvibandipandu@gmail.com
-<b>GitHub</b>: PRUDHVI-14
+<b>Email</b>: prudhvibandipandu@gmail.com<br>
+<b>GitHub</b>: PRUDHVI-14<br>
 
 
 
