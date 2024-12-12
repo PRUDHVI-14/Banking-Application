@@ -2,7 +2,7 @@
 
 This is a simple static Banking Application developed using Core Java. The project aims to simulate basic banking operations such as Loan approval, deposit, withdrawal, checking loand & current balance. It includes object-oriented principles in java.<br>
 <br>
-<b>Features</b>
+<b>Features:</b>
 <br>
 <b>Loan Approval</b>: Allows users to take a loan by providing basic credentials like name, monthly salary, Proffession type and loan amount.
 <br>
@@ -11,7 +11,7 @@ This is a simple static Banking Application developed using Core Java. The proje
 <b>Balance Inquiry</b>: Check the current balance and Loan pending balance of an account.<br>
 <b>User Authentication</b>: Simulates a login system where users authenticate with their credentials.<br>
 <br>
-Technologies Used<br>
+Technologies Used:<br>
 <b>Core Java</b>: The application is developed using core Java concepts, including classes, encapsulation, switch statements,methods and multiple classes.
 <b>JDK 8 or higher</b>: The project requires Java Development Kit (JDK) version 8 or higher for compiling and running the code.<br>
 Prerequisites<br>
@@ -31,7 +31,7 @@ After compiling the code, you can run the application using:<br>
 java BankingApp<br>
 The application will run in the terminal/command line.<br>
 
-<b>project Structure</b><br>
+<b>project Structure:</b><br>
 /banking-application<br>
 │
 ├── BankingApp.java          # Main entry point of the application<br>
@@ -67,6 +67,7 @@ eligible crireria-salary should greater than 30k ,previous loan should zero and 
 example:<br>
 enter your name,salary and working profession.<br>
 enter loan amount: 300000/-<br>
+
 <b>how to access the repository</b><br>
 Fork the repository<br>
 Create a new branch (git checkout -b feature-branch).<br>
