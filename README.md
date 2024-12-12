@@ -16,7 +16,6 @@ Technologies Used<br>
 <b>JDK 8 or higher</b>: The project requires Java Development Kit (JDK) version 8 or higher for compiling and running the code.<br>
 Prerequisites<br>
 Before running the application, ensure you have the following installed:<br>
-
 <b>Java Development Kit (JDK)</b>: Version 8 or higher. You can download it from here.<br>
 How to Run the Project<br>
 Step 1: Clone the Repository<br>
