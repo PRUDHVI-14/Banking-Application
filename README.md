@@ -17,24 +17,21 @@ Technologies Used<br>
 Prerequisites<br>
 Before running the application, ensure you have the following installed:<br>
 <b>Java Development Kit (JDK)</b>: Version 8 or higher. You can download it from here.<br>
+
 How to Run the Project<br>
 Step 1: Clone the Repository<br>
 Clone this repository to your local machine using the following command:<br>
-
 git clone https://github.com/PRUDHVI-14/banking-application.git<br>
 Step 2: Compile the Code<br>
 Navigate to the project folder and compile the Java files:<br>
-
 cd banking-application<br>
 javac *.java
 Step 3: Run the Application<br>
 After compiling the code, you can run the application using:<br>
-
 java BankingApp<br>
 The application will run in the terminal/command line.<br>
 
 <b>project Structure</b><br>
-
 /banking-application<br>
 │
 ├── BankingApp.java          # Main entry point of the application<br>
@@ -62,12 +59,12 @@ Enter deposit amount: 500<br>
 Making a Withdrawal:<br>
 
 You can withdraw funds, as long as your balance is sufficient.<br>
-Example <br>
+Example :<br>
 Enter withdrawal amount: 200<br>
 Transfer Funds:<br>
 you can take loan,as long as you are eligible.<br>
 eligible crireria-salary should greater than 30k ,previous loan should zero and you must and should working profession.<br>
-example<br>
+example:<br>
 enter your name,salary and working profession.<br>
 enter loan amount: 300000/-<br>
 <b>how to access the repository</b><br>
