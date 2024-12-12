@@ -22,7 +22,7 @@ How to Run the Project<br>
 Step 1: Clone the Repository<br>
 Clone this repository to your local machine using the following command:<br>
 
-git clone https://github.com/your-username/banking-application.git<br>
+git clone https://github.com/PRUDHVI-14/banking-application.git<br>
 Step 2: Compile the Code<br>
 Navigate to the project folder and compile the Java files:<br>
 
