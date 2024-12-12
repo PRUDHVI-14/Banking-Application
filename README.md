@@ -1,17 +1,17 @@
 # Banking-Application (core java)
 
-This is a simple Banking Application developed using Core Java. The project aims to simulate basic banking operations such as account creation, deposit, withdrawal, transfer, and balance checking. It uses object-oriented principles and is a command-line interface (CLI) application.
+This is a simple static Banking Application developed using Core Java. The project aims to simulate basic banking operations such as Loan approval, deposit, withdrawal, checking loand & current balance. It includes object-oriented principles in java.
 <br>
-Features
+<b>Features</b>
 <br>
-Account Creation: Allows users to create a new bank account by providing basic details like name, account type, and initial deposit.
-Deposit: Users can deposit money into their accounts.
+<b>Loan Approval</b>: Allows users to take a loan by providing basic credentials like name, monthly salary, Proffession type and loan amount.
+
+Deposit: Users can deposit money into their  individual accounts.
 Withdrawal: Allows users to withdraw funds from their account, with balance checks.
-Transfer: Transfer funds between accounts.
-Balance Inquiry: Check the current balance of an account.
+Balance Inquiry: Check the current balance and Loan pending balance of an account.
 User Authentication: Simulates a login system where users authenticate with their credentials.
 Technologies Used
-Core Java: The application is developed using core Java concepts, including classes, inheritance, interfaces, and exception handling.
+Core Java: The application is developed using core Java concepts, including classes, encapsulation, switch statements,methods and multiple classes.
 JDK 8 or higher: The project requires Java Development Kit (JDK) version 8 or higher for compiling and running the code.
 Prerequisites
 Before running the application, ensure you have the following installed:
@@ -46,44 +46,37 @@ Copy code
 │
 ├── BankingApp.java          # Main entry point of the application
 ├── Account.java             # Class for representing user accounts
-├── AccountManager.java      # Class for managing account operations
-├── Transaction.java         # Class for handling transactions
-├── Bank.java                # Class for bank operations (e.g., transfers, deposits)
-└── User.java                # Class for user authentication
+├── Credentials              # Method for verifying user accNo and Password
+├── User_requirements        # Method for users choice like withdraw,deposit,loan and chech balance.
+├── Date and Time            # Method for displaying present time of service
+
 Example Usage
-Creating an Account:
-
-The application will prompt you to enter user details such as name, account type, and initial deposit.
+Bank credentials
+it includes present four accounts and related passwords
+i.e.,   accNo : 101  & password : 1111
+        accNo : 102  & password : 2222
+        accNo : 103  & password : 3333
+        accNo : 104  & password : 4444
+        
+The application will prompt you to enter into your specidied account.
 Example:
-plaintext
-Copy code
-Enter your name: John Doe
-Enter account type (Checking/Savings): Checking
-Enter initial deposit: 1000
-Making a Deposit:
-
+enter accNo and password
+it displays different options for check balance, withdraw, deposit and loan.
+choose the related option
 You can deposit money by entering an amount when prompted.
 Example:
-plaintext
-Copy code
 Enter deposit amount: 500
 Making a Withdrawal:
 
 You can withdraw funds, as long as your balance is sufficient.
-Example:
-plaintext
-Copy code
+Example 
 Enter withdrawal amount: 200
 Transfer Funds:
-
-You can transfer funds between accounts by specifying the recipient’s account and the amount.
-Example:
-plaintext
-Copy code
-Enter recipient account ID: 12345
-Enter transfer amount: 300
-Contributing
-Contributions are welcome! To contribute to this project, follow these steps:
+you can take loan,as long as you are eligible.
+eligible crireria-salary should greater than 30k ,previous loan should zero and you must and should working profession.
+example
+enter your name,salary and working profession.
+enter loan amount: 300000/-
 
 Fork the repository.
 Create a new branch (git checkout -b feature-branch).
@@ -91,14 +84,12 @@ Make your changes.
 Commit your changes (git commit -am 'Add new feature').
 Push to the branch (git push origin feature-branch).
 Open a pull request.
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 Contact
 If you have any questions, feel free to contact me:
 
-Email: [your-email@example.com]
-GitHub: your-username
+Email: prudhvibandipandu@gmail.com
+GitHub: PRUDHVI-14
 Feel free to modify and expand this README as needed based on the specific features and structure of your banking application.
 
 
