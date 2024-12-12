@@ -1,6 +1,6 @@
 # Banking-Application (core java)
 
-This is a simple static Banking Application developed using Core Java. The project aims to simulate basic banking operations such as Loan approval, deposit, withdrawal, checking loand & current balance. It includes object-oriented principles in java.
+This is a simple static Banking Application developed using Core Java. The project aims to simulate basic banking operations such as Loan approval, deposit, withdrawal, checking loand & current balance. It includes object-oriented principles in java.<br>
 <br>
 <b>Features</b>
 <br>
