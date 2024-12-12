@@ -12,7 +12,7 @@ This is a simple static Banking Application developed using Core Java. The proje
 <b>User Authentication</b>: Simulates a login system where users authenticate with their credentials.<br>
 <br>
 Technologies Used<br>
-<b>Core Java</b>: The application is developed using core Java concepts, including classes, encapsulation, switch statements,methods and multiple classes.<br>
+<b>Core Java</b>: The application is developed using core Java concepts, including classes, encapsulation, switch statements,methods and multiple classes.
 <b>JDK 8 or higher</b>: The project requires Java Development Kit (JDK) version 8 or higher for compiling and running the code.<br>
 Prerequisites<br>
 Before running the application, ensure you have the following installed:<br>
